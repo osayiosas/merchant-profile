@@ -1,0 +1,69 @@
+.back {
+    background-color: #e3e2e8;
+}
+
+.wall {
+    background-color: white;
+    padding: 2%;
+    margin-top: 5%;
+    margin-left: 2.5%;
+    max-width: 95%;
+}
+
+.header {
+    background-color: #e8914a;
+    max-width: 95%;
+    margin-left: 2.5%;
+    padding: 1%;
+    border-radius: 5px 5px 0 0;
+    margin-bottom: 2%;
+}
+
+.heading {
+    color: white;
+    font-size: 20px;
+}
+.progress {
+    max-width: 97.5%;
+    margin-left: 1.2%;
+    margin-bottom: 3%;
+}
+.steps {
+    margin-bottom: 2%;
+    margin-left: 5%;
+}
+.badge {
+    font-size: 100%;
+}
+#circle {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #e3e2e8;
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+    margin-left: 10%;
+}
+.details {
+    margin-left: 1.5%;
+    font-size: 25px;
+    margin-bottom: 3%;
+}
+.form {
+    margin-left: 15%;
+    margin-bottom: 10%;
+}
+
+input[type="email"] {
+    max-width: 400px;
+    padding: 5px;
+    font-size: 16px;
+    margin-bottom: 5%;
+}
+input[type="password"] {
+    max-width: 400px;
+    padding: 5px;
+    font-size: 16px;
+    margin-bottom: 5%;
+}
